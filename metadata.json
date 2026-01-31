@@ -1,0 +1,7 @@
+{
+  "name": "Veo Storyweaver Pro",
+  "description": "A professional long-form video generation tool powered by Veo 3.1 and Gemini. Create consistent character sequences, analyze scripts for audio direction, and generate interpolated high-definition video segments.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
